@@ -1,0 +1,8 @@
+category,subcategory,unit,factor_value,source
+Electricity,Grid,kWh,0.82,CEA 2023
+Diesel Generator,DG Set,Litre,2.68,IPCC
+Water,Supply+Treatment,kL,0.298,CPCB
+Transportation,Two-wheeler,km,0.05,IPCC
+Transportation,Car Petrol,km,0.12,IPCC
+Transportation,Car Diesel,km,0.14,IPCC
+Transportation,Bus,km,0.90,IPCC

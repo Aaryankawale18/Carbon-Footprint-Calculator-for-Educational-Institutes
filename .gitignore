@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.local
+
+# SQLite database persistence
+*.db
+*.sqlite
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit local user state
+.streamlit/secrets.toml
